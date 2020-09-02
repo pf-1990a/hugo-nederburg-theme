@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "hugo-dev": "cd exampleSite && hugo server --themesDir ../..",
     "build-css": "node-sass --include-path node_modules/bootstrap-sass/assets/stylesheets static/scss/main.scss   static/css/style.default.css",
     "watch-css": "nodemon -e scss -x \"npm run build-css\""
   },

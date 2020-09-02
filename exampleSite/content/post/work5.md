@@ -2,10 +2,11 @@
 image = "img/portfolio/railroad-forest1.jpg"
 showonlyimage = true
 draft = false
-date = "2017-12-25T19:53:42+05:30"
-title = "A Totally Response Theme"
-writer = "Lukas Herman"
-categories = [ "photography" ]
+date = "2019-12-23T19:53:42+05:30"
+title = "A Totally Response ThemeX"
+writer = "Joe Shields"
+categories = [ "Money", "Habit", "Money2", "HabitHabit", "Water", "Longgggggg"]
+tags = [ "Budgeting", "Apples", "Orangea", "Other", "Two workds"]
 weight = 5
 +++
 

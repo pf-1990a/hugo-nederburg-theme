@@ -1,5 +1,5 @@
-baseurl = "https://example.org/"
-title = "Nederburg"
+baseurl = "https://www.habitvsfear.com/"
+title = "Habit vs Fear"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -25,15 +25,15 @@ paginate = 5 #frontpage pagination
   slogan = "A fast &amp; secure theme"
   description = "Describe your website" # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
-  author = "Göran Svensson"
+  #author = "Göran Svensson"
   authorLink = "https://appernetic.io/"
   bio = [
     "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
   ]
   copyright = [
-    "&copy; 2018 Göran Svensson",
-    "Nederburg Hugo Theme by [Appernetic](https://appernetic.io).",
-    "A port of Tracks by Compete Themes."
+    "&copy; 2020 Habit vs Fear",
+    "XXNederburg Hugo Theme by [Appernetic](https://appernetic.io).",
+    "XXA port of Tracks by Compete Themes."
   ]
 
 
@@ -49,7 +49,7 @@ paginate = 5 #frontpage pagination
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "goran@molnsys.com"
+  email = "habitvsfear@gmail.com"
 
   # Nav links in the side bar
   [[menu.main]]
@@ -71,7 +71,7 @@ paginate = 5 #frontpage pagination
   [params.social]
   facebook      = "full Social profile url in facebook"
   googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
+  email         = "habitvsfear@example.com"
   twitter       = "full profile url in twitter"
   linkedin      = "full profile url in linkedin"
   stackoverflow = "full profile url in stackoverflow"
@@ -82,28 +82,13 @@ paginate = 5 #frontpage pagination
 
 # Add a writer, then use it in the markdown front matter like this: writer = "Lukas Herman"
   [params.writers]
-    [params.writers."Lukas Herman"]
-    link = "https://lherman.tk"
-    email = "lherman.cs@gmail.com"
+    [params.writers."Joe"]
+    link = "https://habitvsfear.com"
+    email = "habitvsfear@gmail.com"
     bio = [
-      "Lukas has a few skills up his sleve. He can fly blindfolded under a bridge while simultanous writing blog posts."
+      "Joe BIO"
     ]
-    facebook      = "full lukas profile url in facebook"
-    googleplus    = "full profile url in googleplus"
-    twitter       = "full profile url in twitter"
-    linkedin      = "full profile url in linkedin"
-    stackoverflow = "full profile url in stackoverflow"
-    instagram     = "full profile url in instagram"
-    github        = "full profile url in github"
-    pinterest     = "full profile url in pinterest"
-
-    [params.writers."Göran Svensson"]
-    link = "https://appernetic.io/"
-    email = "goran@molnsys.com"
-    bio = [
-      "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
-    ]
-    facebook      = "full Göran profile url in facebook"
+    facebook      = "full Joe profile url in facebook"
     googleplus    = "full profile url in googleplus"
     twitter       = "full profile url in twitter"
     linkedin      = "full profile url in linkedin"

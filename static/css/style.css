@@ -958,7 +958,7 @@ a img {
     clear: both;
     padding: 0;
     margin-bottom: 1.5em;
-    opacity: 0.8;
+    /* opacity: 0.8; */
   }
   .excerpt .featured-image {
     -webkit-transform: translateZ(0);
@@ -1255,12 +1255,12 @@ a img {
 
   .entry-meta-bottom.float .entry-tags,
   .entry-meta-bottom.float .entry-categories {
-    position: absolute;
+    /* position: absolute;
     width: 16.66%;
     left: 0;
     top: 4.5em;
     text-align: right;
-    padding-left: 5.55%;
+    padding-left: 5.55%; */
   }
   .entry-meta-bottom.float .entry-tags a,
   .entry-meta-bottom.float .entry-categories a {
@@ -1548,7 +1548,7 @@ li.pingback:first-child {
     height: 4em;
     background: white;
     border: none;
-    opacity: 0.8;
+    /* opacity: 0.8; */
     text-align: center;
     line-height: 4em;
     outline: none;
@@ -2499,7 +2499,7 @@ li.pingback:first-child {
 .two-column-images.archive .excerpt.has-video .excerpt-title a,
 .two-column-images.archive .excerpt.has-video .entry-title a {
   color: white;
-  opacity: 0.8;
+  /* opacity: 0.8; */
 }
 .full-width-images.blog .excerpt.has-video .excerpt-title a:link, .full-width-images.blog .excerpt.has-video .entry-title a:link, .full-width-images.blog .excerpt.has-video .excerpt-title a:visited, .full-width-images.blog .excerpt.has-video .entry-title a:visited,
 .full-width-images.archive .excerpt.has-video .excerpt-title a:link,

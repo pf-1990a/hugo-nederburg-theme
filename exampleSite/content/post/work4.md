@@ -5,7 +5,7 @@ showonlyimage = false
 date = "2017-11-21T19:50:47+05:30"
 title = "A post without an Image"
 writer = "Göran Svensson"
-categories = [ "code" ]
+categories = [ "code", "Money" ]
 weight = 4
 +++
 
