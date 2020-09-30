@@ -4,15 +4,20 @@ categories = [ "Control", "Health", "Money"]
 Habits
 Fears
 Care
+Commitment
+Hardship
 
 - Health -
 Mind
 Body
 Fitness
 Sex
+Relationships
+Wellbeing
 
 - Money - 
 Budgeting
 Mortgages
 Investing
 Loans
+

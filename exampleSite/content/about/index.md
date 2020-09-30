@@ -5,29 +5,10 @@ title = "Habit vs Fear?"
 
 What is Habit vs Fear you say? What does it even mean? I have pondered this myself many times since beginning this journey 10 years ago. To sum up the core mission statement or elevator pitch (whichever way you lean) it is:
 
-> Make an effort every day to overcome your fears big or small and convert that worry, stress or anxiety into healthly habits, giving you power and control of your life and making you a happier, healthier person.
+> Make an big effort every day to overcome your fears big or small and convert that worry, stress and anxiety into healthly habits, giving you power and control of your life and making you a happier, healthier person.
 
+Easy to say, and hard to even quantify I know, I did say 10 years remember? There are so mnay slogans, banners and inspirational statements to go along with such a broad idea, but that's the core. The goal of this site is to share the ideas and concepts I have developed over time to help others in the same situations. By no means do I have all the answers so I will be learning along the way too as every day brings new challenges and possibilities.
 
-and never give up
+I am Australian born and having lived in various countries during my life I'm now currently based in the UK.
 
-
-
-
-Head over to the very first post for more and [start your journey from fear to health habits today](/habit-vs-fear)
-
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
-
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
-
-![This is me][1]
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-#### Education
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
-
-[1]: /img/about.jpg
+Head over to the very first post for more and [start your journey from fear to health habits today](/post/habit-vs-fear)

@@ -85,13 +85,13 @@
 
             <div class="entry-tags">
               <!-- <p> -->
-                <span>Tags</span>
-                <ul>
+              <span>Tags</span>
+              <ul>
                 {{ range $index, $name := .Params.tags }}
                 <li><a href="{{ "/tags/" | relLangURL }}{{ $name | urlize }}"
-                  title="View all posts tagged {{ $name }}">{{ $name }}</a></li>
-                
-                
+                    title="View all posts tagged {{ $name }}">{{ $name }}</a></li>
+
+
                 {{ end }}
               </ul>
               <!-- </p> -->

@@ -3,7 +3,7 @@ title = "Habit vs Fear"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "habit-vs-fear"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-179310819-1"
 preserveTaxonomyNames = true
