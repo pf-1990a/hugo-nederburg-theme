@@ -22,7 +22,7 @@ paginate = 5 #frontpage pagination
 [params]
   # Unmark to use post folder for images. Default is static folder.
   #usepostimgfolder = true
-  slogan = "Turn your fears into your good habits"
+  slogan = "Transform your fears into healthy habits"
   description = "Habit vs Fear helps you turn your fears into your good habits every day." # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   #author = "Joe"

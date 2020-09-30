@@ -1,7 +1,19 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+date = "2020-03-31T00:00:00+00:00"
+title = "Habit vs Fear?"
 +++
+
+What is Habit vs Fear you say? What does it even mean? I have pondered this myself many times since beginning this journey 10 years ago. To sum up the core mission statement or elevator pitch (whichever way you lean) it is:
+
+> Make an effort every day to overcome your fears big or small and convert that worry, stress or anxiety into healthly habits, giving you power and control of your life and making you a happier, healthier person.
+
+
+and never give up
+
+
+
+
+Head over to the very first post for more and [start your journey from fear to health habits today](/habit-vs-fear)
 
 An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
 
