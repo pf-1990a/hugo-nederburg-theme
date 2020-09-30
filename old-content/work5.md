@@ -3,11 +3,11 @@ image = "img/portfolio/railroad-forest1.jpg"
 showonlyimage = true
 draft = false
 date = "2019-12-23T19:53:42+05:30"
-title = "A Totally Response ThemeX"
-writer = "Joe Shields"
-categories = [ "Money", "Habit", "Money2", "HabitHabit", "Water", "Longgggggg"]
-tags = [ "Budgeting", "Apples", "Orangea", "Other", "Two workds"]
-weight = 5
+title = "Habit vs Fear 1.0"
+writer = "Joe"
+categories = ["Control", "Health", "Money"]
+tags = []
+weight = 1
 +++
 
 Fifth abundantly made Give sixth hath. Cattle creature i be don't them.

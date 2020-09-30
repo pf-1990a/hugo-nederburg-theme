@@ -1,12 +1,13 @@
 +++
-draft = false
-image = "img/portfolio/trifold.jpg"
+image = "img/portfolio/railroad-forest1.jpg"
 showonlyimage = true
-date = "2018-07-04T20:22:08+05:30"
-title = "Item with image"
-writer = "Göran Svensson"
-weight = 10
-tags = [ "Money" ]
+draft = false
+date = "2019-12-23T19:53:42+05:30"
+title = "Habit vs Fear"
+writer = "Joe"
+categories = ["Control", "Health", "Money"]
+tags = []
+weight = 1
 +++
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.

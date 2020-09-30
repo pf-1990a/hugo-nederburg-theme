@@ -1,0 +1,18 @@
+categories = [ "Control", "Health", "Money"]
+
+- Control -
+Habits
+Fears
+Care
+
+- Health -
+Mind
+Body
+Fitness
+Sex
+
+- Money - 
+Budgeting
+Mortgages
+Investing
+Loans
